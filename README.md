@@ -73,6 +73,6 @@ deja `propio` porque es el que los estudiantes pueden leer entero.
 
 <!-- Este bloque es tuyo: complétalo después del paso 5. Las actualizaciones del maestro no lo tocan. -->
 
-- Backend: `https://ia-toolkit.<tu-subdominio>.workers.dev`
+- Backend: `https://ia-toolkit.pablo-rodriguez-g.workers.dev`
 - Frontend: `https://<tu-proyecto>.vercel.app`
 - MCP: `https://ia-toolkit.<tu-subdominio>.workers.dev/mcp`
